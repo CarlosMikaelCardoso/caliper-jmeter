@@ -1,0 +1,11 @@
+Cenário,Rodada,Métrica,Valor,Limites
+query,18,Avg Latency (s),0.0225,"[0.02, 0.02]"
+open,1,Avg Latency (s),0.3845,"[0.39, 0.46]"
+transfer,4,Throughput (TPS),55.8,"[41.94, 50.44]"
+transfer,20,Throughput (TPS),39.44,"[41.94, 50.44]"
+transfer,3,Throughput (TPS),37.19,"[41.94, 50.44]"
+transfer,8,Throughput (TPS),38.36,"[41.94, 50.44]"
+transfer,15,Throughput (TPS),39.89,"[41.94, 50.44]"
+transfer,22,Throughput (TPS),38.92,"[41.94, 50.44]"
+transfer,30,Throughput (TPS),38.62,"[41.94, 50.44]"
+transfer,18,Throughput (TPS),38.2,"[41.94, 50.44]"

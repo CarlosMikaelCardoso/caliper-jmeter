@@ -1,0 +1,4 @@
+Scenario,Samples,Success,Fail,Avg Latency (s),TPS
+Open,1000,1000,0,0.4389,42.4214
+Query,1000,1000,0,0.0198,51.0204
+Transfer,500,500,0,0.4360,39.7551

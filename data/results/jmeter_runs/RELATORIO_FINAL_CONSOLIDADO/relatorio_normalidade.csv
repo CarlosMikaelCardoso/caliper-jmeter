@@ -1,0 +1,7 @@
+Cenário,Métrica,W_Statistic,p_valor,Distribuição,Recomendação_Teste
+query,Throughput (TPS),0.9658,0.393308,Normal (Gaussiana),Paramétrico (Student's T-test)
+query,Avg Latency (s),0.9718,0.550553,Normal (Gaussiana),Paramétrico (Student's T-test)
+open,Throughput (TPS),0.9783,0.748437,Normal (Gaussiana),Paramétrico (Student's T-test)
+open,Avg Latency (s),0.9826,0.87124,Normal (Gaussiana),Paramétrico (Student's T-test)
+transfer,Throughput (TPS),0.821,0.000104,Não Normal,Não Paramétrico (Mann-Whitney U)
+transfer,Avg Latency (s),0.9762,0.685169,Normal (Gaussiana),Paramétrico (Student's T-test)

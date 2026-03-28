@@ -1,0 +1,6 @@
+,Throughput (TPS),Throughput (TPS),Throughput (TPS),Throughput (TPS),Throughput (TPS),Avg Latency (s),Avg Latency (s),Avg Latency (s),Avg Latency (s),Avg Latency (s),P99 Latency (s),P99 Latency (s),P99 Latency (s),P99 Latency (s),P99 Latency (s)
+,mean,median,std,min,max,mean,median,std,min,max,mean,median,std,min,max
+Scenario,,,,,,,,,,,,,,,
+open,51.0088,51.32,3.8249,42.6,60.62,0.4245,0.4253,0.0168,0.3845,0.4567,0.9197,0.8298,0.2769,0.6725,2.1471
+query,51.0334,51.03,0.029,50.98,51.09,0.0195,0.0195,0.0012,0.0174,0.0225,0.0468,0.046,0.0052,0.038,0.057
+transfer,45.2788,46.415,4.001,37.19,55.8,0.4493,0.4496,0.0126,0.4244,0.4787,1.9901,2.0046,0.266,0.6291,2.179
