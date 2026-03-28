@@ -1,0 +1,4 @@
+[JMeter] Rodada 1 descartada por Cold Start.
+[JMeter] Rodada 4 descartada por Outlier (Latência: 254.56 ms).
+[Caliper] Rodada 1 descartada por Cold Start.
+[Caliper] Rodada 20 descartada por Outlier (Latência: 260.0 ms).

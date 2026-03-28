@@ -1,0 +1,7 @@
+Cenário,Métrica,p_valor,Estatisticamente_Significativo,Tamanho_do_Efeito_(r),Magnitude,Melhor_Performance
+open,Throughput (TPS),0.122902,Não,0.2227,Pequeno,JMeter
+open,Avg Latency (s),0.0,Sim,0.9961,Grande,Caliper
+query,Throughput (TPS),0.0,Sim,1.0,Grande,JMeter
+query,Avg Latency (s),0.02045,Sim,0.3184,Médio,JMeter
+transfer,Throughput (TPS),9.4e-05,Sim,0.5625,Grande,JMeter
+transfer,Avg Latency (s),0.0,Sim,0.9824,Grande,Caliper
